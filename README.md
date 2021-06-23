@@ -15,3 +15,10 @@ Use `import.sh` to add new configuration file
 `disconnect.sh` - will take 1st active session and disconnect it.
 
 `get_session_path.py` - Python script that extracts the path to session and output it to stdout
+
+
+UPDATE
+
+You can use the `disconnect_cli.sh` only, without python script. 
+
+Big thanks to [AnilRedshift](https://github.com/AnilRedshift)
