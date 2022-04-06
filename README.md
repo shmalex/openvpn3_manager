@@ -17,7 +17,10 @@ Use `import.sh` to add new configuration file
 `get_session_path.py` - Python script that extracts the path to session and output it to stdout
 
 
-UPDATE
+
+___
+
+**UPDATE**
 
 You can use the `disconnect_cli.sh` only, without python script. 
 
